@@ -92,7 +92,7 @@ The site is hosted on Render's free tier, so the first request after a period of
 Full-stack developer, Thiruvananthapuram, Kerala, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-buildJOI-181717?style=flat-square&logo=github)](https://github.com/buildJOI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jthnjvn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jithnjvn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jithnjvn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jithnjvn)
 
 Interested in a website for your business? Get in touch through [LinkedIn](https://linkedin.com/in/jithnjvn).
 
